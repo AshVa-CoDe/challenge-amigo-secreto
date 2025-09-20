@@ -6,11 +6,6 @@ Los usuarios pueden agregar nombres a una lista, eliminarlos si es necesario y l
 
 ---
 
-## 🚀 Demo en vivo
-👉 [Challenge amigo secreto](https://AshVa-CoDe.github.io/challenge-amigo-secreto/)
-
----
-
 ## 📌 Funcionalidades
 - **Agregar nombres** a la lista.
 - **Eliminar nombres** individualmente.
